@@ -2,7 +2,7 @@
 
 
 ###  [软件下载](https://github.com/jobBeson1/flashsnipe/archive/refs/tags/13.0.4.zip)
-## [使用说明,必看](https://github.com/lvjianzwp/flashsnipe/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+## [使用说明,必看](https://github.com/jobBeson1/flashsnipe/blob/master/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 
 
